@@ -2,7 +2,7 @@
   Hi! I'm Nilsu 🙌
 </h1>
 
-<p> I am a senior in college who is exploring areas of computer science to find out about her passion. From centralized databases to machine learning applications, then on to backend work, my internships have focused on a variety of fields. Interested in full-stack web development at the moment. </p>
+<p> I am a senior in college who is exploring areas of computer science to find out about her passion. From centralized databases to machine learning applications, then on to backend work, my internships have focused on a variety of fields. Interested in back end development at the moment. </p>
 
 <div class="row">
   <h2 align="center"> Languages/Tools </h2>
